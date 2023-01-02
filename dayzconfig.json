@@ -13,6 +13,18 @@
     "Hidden": true
   },
   {
+    "DisplayName": "CPU Count",
+    "Category": "DayZ - Miscellaneous",
+    "Description": "Set the default CPU count",
+    "Keywords": "cpu",
+    "FieldName": "cpuCount",
+    "InputType": "number",
+    "IsFlagArgument": true,
+    "ParamFieldName": "cpuCount",
+    "IncludeInCommandLine": true,
+    "DefaultValue": "1"
+  },
+  {
     "DisplayName": "File Patching",
     "Category": "DayZ - Miscellaneous",
     "Description": "If enabled, ensures that only PBOs are loaded and NO unpacked data.",
