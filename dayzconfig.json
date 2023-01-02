@@ -19,10 +19,14 @@
     "Keywords": "patch,patching,files,misc,pbo,data",
     "FieldName": "filePatching",
     "InputType": "checkbox",
-    "IsFlagArgument": true,
+    "IsFlagArgument": false,
     "ParamFieldName": "filePatching",
-    "IncludeInCommandLine": true,
-    "DefaultValue": "-filePatching"
+    "IncludeInCommandLine": false,
+    "DefaultValue": "0",
+    "EnumValues": {
+      "True": "1",
+      "False": "0"
+    }
   },
   {
     "DisplayName": "FPS Limit",
