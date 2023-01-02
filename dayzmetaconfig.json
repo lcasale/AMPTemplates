@@ -1,6 +1,6 @@
 [
 	{
-		"ConfigFile": "serverDZ.cfg",
+		"ConfigFile": "dayz/server/serverDZ.cfg",
 		"AutoMap": true,
 		"ConfigType": "template",
 		"ConfigFileTemplate": "dayz/server/AMP_Settings.cfg"
