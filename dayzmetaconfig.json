@@ -1,9 +1,9 @@
 [
 	{
-		"ConfigFile": "./serverDZ.cfg",
+		"ConfigFile": "serverDZ.cfg",
 		"AutoMap": true,
 		"ConfigType": "template",
-		"ConfigFileTemplate": "./dayz/server/AMP_Settings.cfg"
+		"ConfigFileTemplate": "dayz/server/AMP_Settings.cfg"
 	},
 	{
 		"ConfigFile": "battleye/beserver_x64.cfg",
